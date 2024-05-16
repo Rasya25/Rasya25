@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rasya25/Rasya25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rasya25/Rasya25/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -68,10 +68,10 @@
 ###
 
 <h5 align="center">Repo Stats 🔭</h5>
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rasya25&repo=TicTacToe&theme=dark)
 
 ###
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rasya25&repo=TicTacToe&theme=dark)
+###
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
