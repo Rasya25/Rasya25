@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! My name is Rasyaa and I'm a Fullstack Developer, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Rasyaa</h2>
+<h4 align="center">and I'm a Fullstack Developer, from Indonesia</h4>
+
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=Rasya%20Raditya%20Putra&description=Hi,%20I%27m%20a%20FullStack%20Developers.%20Nice%20to%20meet%20u!&image=https://avatars.githubusercontent.com/u/92872988?s=96&v=4&backgroundColor=%23ecf0f1&instagram=r.rdtyptr&github=Rasya25&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ###
 
@@ -68,3 +72,6 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rasya25)
 
 </details>
+
+### Spotify Recently Play 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312m6hssutahvtjwzaeps7xcclim)
